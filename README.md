@@ -15,11 +15,11 @@ No GUI.
 Just logs. 
 Stupidly simple.
 
-![strategy](https://github.com/diasnrg/patterns/blob/master/images/strategy.jpg)<br />
-![decorator1](https://github.com/diasnrg/patterns/blob/master/images/decorator1.jpg)<br />
-![decorator2](https://github.com/diasnrg/patterns/blob/master/images/decorator2.jpg)<br />
-![factory singleton](https://github.com/diasnrg/patterns/blob/master/images/factory_singleton.jpg)<br />
+![strategy](https://github.com/diasnrg/patterns/blob/main/images/strategy.jpg)<br />
+![decorator1](https://github.com/diasnrg/patterns/blob/main/images/decorator1.jpg)<br />
+![decorator2](https://github.com/diasnrg/patterns/blob/main/images/decorator2.jpg)<br />
+![factory singleton](https://github.com/diasnrg/patterns/blob/main/images/factory_singleton.jpg)<br />
 
 **UML diagram**<br />
 
-![UML](https://github.com/diasnrg/patterns/blob/master/images/uml.jpg)
+![UML](https://github.com/diasnrg/patterns/blob/main/images/uml.jpg)
